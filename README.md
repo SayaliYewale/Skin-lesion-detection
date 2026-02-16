@@ -23,3 +23,5 @@ B) Technologies Used:
 4.PDF Reports: ReportLab / xhtml2pdf
 
 5.Dataset: HAM10000
+
+End of the project
